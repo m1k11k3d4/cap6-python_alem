@@ -54,7 +54,7 @@ No diretório principal do projeto src, execute o seguinte comando para instalar
   ```python
    pip install -r requirements.txt
  ```
-Isso instalará as bibliotecas como cx_Oracle, pandas, e configparser.
+  Isso instalará as bibliotecas como cx_Oracle, pandas, e configparser.
 
 3. Executar o conteúdo do ddl.sql no banco de dados que será utilizado, para criar a tabela PRODUTORES.
 
