@@ -1,0 +1,21 @@
+cpf_cnpj;nome;endereco;telefone;email;consentimento;nome_propriedade;area_total;area_plantada_milho;area_plantada_soja;rua;numero;cidade;estado
+51426491801964;Produtor 1;Rua dos Andradas 731, São Paulo - SP;(62) 93151-1028;produtor1@exemplo.com;S;Fazenda 1;80.98;50.0;30.98;Rua dos Andradas;731;São Paulo;SP
+28299076292054;Produtor 2;Rua Goiás 833, São Paulo - SP;(31) 98050-5912;produtor2@exemplo.com;S;Fazenda 2;100.0;50.0;50.0;Rua Goiás;833;São Paulo;SP
+99807609463324;Produtor 3;Rua das Flores 24, Belo Horizonte - MG;(31) 91504-6890;produtor3@exemplo.com;S;Fazenda 3;68.11;23.36;44.75;Rua das Flores;24;Belo Horizonte;MG
+56373620070732;Produtor 4;Avenida Brasil 859, Belo Horizonte - MG;(31) 97064-1188;produtor4@exemplo.com;N;Fazenda 4;76.80000000000001;39.38;37.42;Avenida Brasil;859;Belo Horizonte;MG
+33834083087093;Produtor 5;Rua XV de Novembro 530, Curitiba - PR;(51) 95348-7733;produtor5@exemplo.com;S;Fazenda 5;96.7;50.0;46.7;Rua XV de Novembro;530;Curitiba;PR
+21876248652696;Produtor 6;Rua Goiás 733, Curitiba - PR;(62) 95020-6820;produtor6@exemplo.com;S;Fazenda 6;55.73;50.0;5.73;Rua Goiás;733;Curitiba;PR
+2375744032576;Produtor 7;Avenida Afonso Pena 621, Porto Alegre - RS;(41) 93848-1230;produtor7@exemplo.com;S;Fazenda 7;52.11;50.0;2.11;Avenida Afonso Pena;621;Porto Alegre;RS
+78514613909482;Produtor 8;Rua dos Andradas 882, Porto Alegre - RS;(41) 92646-1050;produtor8@exemplo.com;S;Fazenda 8;100.0;50.0;50.0;Rua dos Andradas;882;Porto Alegre;RS
+79715125739177;Produtor 9;Rua Santa Clara 619, Goiânia - GO;(31) 98944-1459;produtor9@exemplo.com;N;Fazenda 9;100.0;50.0;50.0;Rua Santa Clara;619;Goiânia;GO
+81150677036020;Produtor 10;Rua XV de Novembro 516, Goiânia - GO;(41) 91515-5177;produtor10@exemplo.com;S;Fazenda 10;82.93;32.93;50.0;Rua XV de Novembro;516;Goiânia;GO
+47386639115678;Produtor 11;Avenida Paulista 256, Campinas - SP;(41) 97266-8181;produtor11@exemplo.com;N;Fazenda 11;100.0;50.0;50.0;Avenida Paulista;256;Campinas;SP
+96412189811603;Produtor 12;Avenida Afonso Pena 942, Campinas - SP;(41) 97491-4889;produtor12@exemplo.com;N;Fazenda 12;78.69;37.05;41.64;Avenida Afonso Pena;942;Campinas;SP
+24577414020666;Produtor 13;Rua XV de Novembro 167, Uberlândia - MG;(31) 98329-1380;produtor13@exemplo.com;N;Fazenda 13;100.0;50.0;50.0;Rua XV de Novembro;167;Uberlândia;MG
+161978483817;Produtor 14;Rua dos Andradas 134, Uberlândia - MG;(62) 94616-5934;produtor14@exemplo.com;S;Fazenda 14;97.42;47.42;50.0;Rua dos Andradas;134;Uberlândia;MG
+65530456334314;Produtor 15;Rua Paraná 695, Londrina - PR;(51) 91830-9125;produtor15@exemplo.com;S;Fazenda 15;52.76;2.76;50.0;Rua Paraná;695;Londrina;PR
+47883838652295;Produtor 16;Rua XV de Novembro 888, Londrina - PR;(31) 94709-8675;produtor16@exemplo.com;N;Fazenda 16;60.6;10.6;50.0;Rua XV de Novembro;888;Londrina;PR
+52854729381989;Produtor 17;Rua Goiás 195, Caxias do Sul - RS;(11) 94670-9032;produtor17@exemplo.com;S;Fazenda 17;35.629999999999995;11.14;24.49;Rua Goiás;195;Caxias do Sul;RS
+69571631729980;Produtor 18;Rua São João 518, Caxias do Sul - RS;(41) 91882-5422;produtor18@exemplo.com;S;Fazenda 18;100.0;50.0;50.0;Rua São João;518;Caxias do Sul;RS
+61983506452907;Produtor 19;Rua Paraná 116, Anápolis - GO;(11) 92314-2070;produtor19@exemplo.com;S;Fazenda 19;64.31;50.0;14.31;Rua Paraná;116;Anápolis;GO
+54113583612422;Produtor 20;Avenida Afonso Pena 140, Anápolis - GO;(51) 98102-7065;produtor20@exemplo.com;N;Fazenda 20;100.0;50.0;50.0;Avenida Afonso Pena;140;Anápolis;GO
