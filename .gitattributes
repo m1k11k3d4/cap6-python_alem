@@ -1,0 +1,24 @@
+# Configurar final de linha (EOL) para arquivos de texto
+# Força o uso de LF no repositório, mas mantém CRLF no Windows se necessário
+*.py     text eol=lf
+*.sh     text eol=lf
+*.txt    text eol=lf
+*.md     text eol=lf
+*.csv    text eol=lf
+*.json   text eol=lf
+
+# Tratamento especial para arquivos de imagem
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+
+# Arquivos binários de banco de dados
+*.db     binary
+
+# Ignorar diferenças em arquivos de log (não queremos versionar mudanças em logs)
+*.log    -diff
+
+# Forçar UTF-8 para certos arquivos de configuração e código
+*.ini     text eol=lf
+*.cfg     text eol=lf
