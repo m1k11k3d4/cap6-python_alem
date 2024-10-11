@@ -57,7 +57,9 @@ No diretório principal do projeto src, execute o seguinte comando para instalar
 Isso instalará as bibliotecas como cx_Oracle, pandas, e configparser.
 
 3. Executar o conteúdo do ddl.sql no banco de dados que será utilizado, para criar a tabela PRODUTORES.
-4. Configurar o arquivo config.ini
+
+4. Configurar o arquivo config.ini.
+
 5. Executar o Menu Principal
 O projeto é executado a partir do menu principal, que oferece várias opções de funcionalidades como incluir, alterar, excluir produtores, calcular créditos de carbono, etc.
 Execute o script menu_principal.py.
