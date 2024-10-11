@@ -31,7 +31,7 @@
 
 ### 1.1.1. Contexto do Agronegócio
 
-O projeto se concentra no desenvolvimento de uma cooperativa digital voltada para o agronegócio, especificamente para apoiar pequenos produtores e agricultores familiares focados nas culturas de milho e soja. Segundo a <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/agricultura-familiar-brasileira-ocupa-8a-posicao-entre-os-maiores-produtores-de-alimentos-do-mundo-mostra-anuario/">CNN Brasil</a> , o Brasil abriga 3,9 milhões de propriedades agrícolas, representando 77% dos estabelecimentos rurais, com 10,1 milhões de trabalhadores. Este projeto busca oferecer a esses produtores um espaço colaborativo para compartilhamento de recursos, redução de custos, e acesso a tecnologias que aumentam a competitividade.
+Este trabalho envolve o desenvolvimento de uma cooperativa digital focada no agronegócio, especialmente para plantações de milho e soja, visando apoiar pequenos produtores e agricultores familiares. A cooperativa facilita o compartilhamento de recursos, compra coletiva de insumos por produtores do mesmo estado e cálculo de créditos de carbono, otimizando as operações agrícolas de forma sustentável.
 
 ### 1.1.2. Descrição da Solução Desenvolvida
 
