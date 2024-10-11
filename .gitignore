@@ -1,0 +1,49 @@
+# Ignorar arquivos Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignorar ambientes virtuais
+venv/
+env/
+ENV/
+.venv/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração que podem conter senhas ou informações sensíveis
+config/config.ini
+
+# Ignorar arquivos de banco de dados locais
+*.db
+
+# Ignorar arquivos de backup temporários
+*.bak
+*.swp
+*.swo
+
+# Ignorar arquivos de cache
+*.cache
+*.temp
+
+# Ignorar arquivos do sistema operacional
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignorar arquivos específicos do editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Ignorar arquivos gerados pelo Jupyter Notebook (se aplicável)
+.ipynb_checkpoints/
+
+# Ignorar arquivos CSV e JSON de inputs/outputs que são regenerados
+document/other/*.csv
+document/other/*.json
+
+# Manter os scripts e arquivos importantes
+!scripts/*.py
+!document/other/*.txt  # Não ignorar arquivos de erro em txt
