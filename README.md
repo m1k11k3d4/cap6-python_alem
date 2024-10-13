@@ -15,9 +15,9 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- Lucas Gomes Moreira
+- <a href="https://www.linkedin.com/in/lucas-gomes-moreira-15a8452a/">Lucas Gomes Moreira</a>
 ### Coordenador(a)
-- André Godoi Chiovato
+- <a href="https://www.linkedin.com/in/profandregodoi/">André Godoi</a>
 
 
 ## 📜 Descrição
